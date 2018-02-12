@@ -1,0 +1,48 @@
+﻿  hw1.cpp
+hw1.cpp(403): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(404): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(405): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(411): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(448): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(456): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(457): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(458): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(488): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(493): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+hw1.cpp(575): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+hw1.cpp(792): warning C4244: '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(793): warning C4244: '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(794): warning C4244: '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(844): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(845): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(846): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(859): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(861): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(1088): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+hw1.cpp(1130): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+hw1.cpp(1159): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(1162): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(1163): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(1181): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(1193): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(1194): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(1207): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(1208): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(1224): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(1238): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw1.cpp(1251): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  texturePipelineProgram.cpp
+  pipelineProgram.cpp
+  openGLMatrix.cpp
+  lightPipelineProgram.cpp
+  basicPipelineProgram.cpp
+  advancePipelineProgram.cpp
+  imageIO.cpp
+  코드를 생성하고 있습니다...
+  jpeg.lib(jerror.obj) : /GL로 컴파일한 MSIL .netmodule 또는 모듈이 있습니다. /LTCG를 지정하여 링크를 다시 시작하십시오. /LTCG를 링크 명령줄에 추가하면 링커 성능이 향상됩니다.
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/LTCG' 사양으로 인해 무시됩니다.
+LINK : warning LNK4098: 'MSVCRT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  코드를 생성하고 있습니다.
+  코드를 생성했습니다.
+  hw1.vcxproj -> C:\Users\chang\Desktop\Workspace\Computer Graphics\HW\HW2\Milestone_HW2\hw1-starterCode\\Bin\Debug\hw1.exe
+  hw1.vcxproj -> C:\Users\chang\Desktop\Workspace\Computer Graphics\HW\HW2\Milestone_HW2\hw1-starterCode\\Bin\Debug\hw1.pdb (Full PDB)
